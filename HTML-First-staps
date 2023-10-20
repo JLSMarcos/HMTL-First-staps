@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+</head>
+<body>
+    <h1 id="Home page">Home page</h1>
+    <h1>This tags is used to define the most import titles</h1>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+    <a href="#HTML">Video to learn HTML</a>
+    <br>
+    <a href="https://web.dio.me" title="Click here and check" target="_self">Dio.me</a>
+    <p>This Tag is used to define paragraph, widely used to include texts</p>
+    <p> The <mark> defines text that should be marked or highlighted</mark></p>
+    <small>This tag defines smaller text, like copyright and other side-comments</small>
+    <br><br/>
+    <i>This command defines a part of text in an alternate voice or mood. The content inside is typically displayed in italic.</i>
+    <u></u>
+    <br><br/>
+    <strong>
+        This command is used to define text with strong importance. The content inside is typically displayed in bold
+    </strong>
+    <ol>
+        <ol>This command defines an ordered list. An ordered list can be numerical or alphabetical.</ol>
+    </ol>
+    <ul>This comand us used to mark a misspelled word</ul>
+    <li>This command is used to define a list item</li>
+    <a href="#Home page">Home page</a>
+    <!-- Is vervy used for home page, turn back to top  -->
+    <hr> This comand is used to defines a thematic brack in an HTML page.<hr/>
+    <p>This text contains <sub><mark>subscript</mark></sub> text.</p>
+    <sup>
+    <p>This command is used to defines <sup>superscript</sup> text.</p>
+    
+    <blockquote cite="https://www.w3schools.com/html/default.asp" >This Element indeicates that this included test is a long quote</blockquote>
+    <h3 id="HTML">Video to learm HTML</h3>
+    <a href="https://www.youtube.com/watch?v=kUMe1FH4CHE&t=6804s" title="HTML Course Youtube" target="_self">Link to an HTML Course in English</a>
+</body>
+</html>
